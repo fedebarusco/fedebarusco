@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fedebarusco
-- 👀 I’m interested in everything about data
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ... projects! Let's talk about it!
+- 👨🏻‍💻 I'm an 360 degree tech passionate, with a particular interest in data handling
+- 💞️ I'm always looking for new ideas to work on, so let's talk about it!
 - 📫 How to reach me: fbarusco@gmail.com / @fede_barusco
 
 <!---
