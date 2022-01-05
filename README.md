@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fedebarusco
-- 👨🏻‍💻 I'm an 360 degree tech passionate, with a particular interest in data handling
+- 👨🏻‍💻 I'm a 360 degree tech passionate, with a particular interest in data handling
 - 💞️ I'm always looking for new ideas to work on, so let's talk about it!
 - 📫 How to reach me: fbarusco@gmail.com / @fede_barusco
 
