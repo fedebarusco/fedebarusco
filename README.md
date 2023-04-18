@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-🔭 I’m currently working on data engineering projects<br>👯 I’m looking to collaborate on backend projects (data, microservices, etc.)<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning Go<br>📫 How to reach me: fbarusco@gmail.com / @fede_barusco
+🔭 I’m currently working on data engineering projects<br>👯 I’m looking to collaborate on backend projects (data, microservices, etc.)<br>🌱 I’m currently learning Go<br>📫 How to reach me: fbarusco@gmail.com / @fede_barusco
 
 
 ## 🌐 Socials:
