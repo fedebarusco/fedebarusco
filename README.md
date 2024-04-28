@@ -1,11 +1,11 @@
-# 💫 About Me:
+# 💫 About Me
 - 👋 Hi, I’m @fedebarusco
 - 👨🏻‍💻 I'm a 360 degree tech passionate, with a particular interest in data handling
 - 🔭 I’m currently working on data engineering projects
 - 💞️ I'm always looking for new ideas to work on, so let's talk about it!
 - 📫 How to reach me: fbarusco@gmail.com / @fede_barusco
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/federicobarusco/)
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/fedebarusco)
 
